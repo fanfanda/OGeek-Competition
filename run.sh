@@ -11,7 +11,7 @@ python3 base_add_feature.py &
 wait
 
 # lgb两个模型
-# python3 wanghe.py #特征提取与模型部分均放此文件完成
+python3 wanghe.py #特征提取与模型部分均放此文件完成
 python3 lgb_online.py
 
 

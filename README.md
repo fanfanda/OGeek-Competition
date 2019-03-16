@@ -1,7 +1,4 @@
 # Ogeek
-## Description
-The code here is a single model, one-second of the final solution.
-
 ## How to run?
 Execution commands are placed in the run.sh script.
 
